@@ -1,2 +1,6 @@
-##Dit is een heading
-###En dit is een 2e heading
+## Dit is een header...
+### En dit is een 2e header...
+
+# mooi
+# leesbaar
+# makkelijk
